@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // Change or remove "base" if you deploy elsewhere or rename the repo.
 export default defineConfig({
   plugins: [react()],
-  base: "/price-scout/",
+  base: "/sales/",
 });
